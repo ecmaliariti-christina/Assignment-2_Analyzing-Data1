@@ -8,7 +8,9 @@ The goal of the analysis is to determine whether any of these features can predi
 ## Files in this Repository
 
 Assignment 2-Analyzing Data1.ipynb – Jupyter notebook containing the analysis
+
 data_full_story.csv – dataset used in the analysis
+
 report.pdf – written discussion of the results
 
 Open the notebook in Jupyter Notebook and run the cells from top to bottom. The notebook will load the dataset and perform the analysis automatically.
