@@ -27,14 +27,14 @@ Define dependent and independent variables
 Generate scatterplots for visual inspection
 Perform simple linear regression for each storytelling feature
 Plot regression lines
-Calculate the R² score for each model
+Calculate the R2 score for each model
 Plot residuals
 Perform the Shapiro-Wilk test on residuals
 Compare results across the variables
 
 ## Results Summary
 
-The analysis shows that none of the individual storytelling features strongly predict the story_score on their own. While some variables display slight positive relationships with the story score, the R² values remain relatively low, indicating weak predictive power.
+The analysis shows that none of the individual storytelling features strongly predict the story_score on their own. While some variables display slight positive relationships with the story score, the R2 values remain relatively low, indicating weak predictive power.
 
 This suggests that storytelling strength may be influenced by multiple narrative features combined, or by additional factors not captured in the dataset.
 
